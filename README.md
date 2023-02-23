@@ -20,7 +20,7 @@ Primeiro clone o projeto:
 <br/>
 
 ```sh
-git clone git@github.com:KleversonEller/project-cash-in.git
+git clone git@github.com:KleversonEller/exercise-hello-world-sharp.git
 ```
 <br/>
 
@@ -28,7 +28,7 @@ Em seguida entre na pasta do projeto e utilize o seguinte comando para instalar 
 <br/>
 
 ```sh
-cd project-cash-in
+cd exercise-hello-world-sharp
 dotnet restore
 ```
 <br/>
