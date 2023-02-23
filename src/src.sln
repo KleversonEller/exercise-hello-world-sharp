@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ola-mundo", "ola-mundo\ola-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ola-mundo.Test", "ola-mundo.Test\ola-mundo.Test.csproj", "{CD5CF22B-CEE6-44BE-AD82-F13CA1058A75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ola-mundo.Test.Test", "ola-mundo.Test.Test\ola-mundo.Test.Test.csproj", "{5E423866-B643-4320-AB64-6FD1CDE1AB2E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
