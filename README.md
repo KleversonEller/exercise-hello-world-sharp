@@ -28,7 +28,7 @@ Em seguida entre na pasta do projeto e utilize o seguinte comando para instalar 
 <br/>
 
 ```sh
-cd exercise-hello-world-sharp
+cd exercise-hello-world-sharp/src
 dotnet restore
 ```
 <br/>
