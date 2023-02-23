@@ -1,13 +1,42 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# **Contexto do projeto**
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Primeira aplicação utilizando .NET C#, criando uma aplicação de console e seus testes unitários.
+<br/>
+O tão querido "Hello World" !!
+<br/>
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## **Stacks utilizadas no projeto**
+
+Foi utilizado o .NET Core na versão 6.0
+<br/>
+A biblioteca de testes xUnit e a Fluent Assertions
+<br/>
+
+## **Como iniciar o projeto localmente**
+
+Caso queira iniciar o projeto localmente devera ter instalado o .NET 6.0 e seguir os seguintes passos:
+<br/>
+Primeiro clone o projeto:
+<br/>
+
+```sh
+git clone git@github.com:KleversonEller/project-cash-in.git
+```
+<br/>
+
+Em seguida entre na pasta do projeto e utilize o seguinte comando para instalar as dependências do projeto:
+<br/>
+
+```sh
+cd project-cash-in
+dotnet restore
+```
+<br/>
+
+Caso queira executar os testes basta utilizar:
+<br/>
+
+```sh
+cd ola-mundo.Test
+dotnet test
+```
